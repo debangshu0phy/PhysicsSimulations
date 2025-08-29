@@ -1,1 +1,1 @@
-# Physics-Simulations-For-Fun-
+Contains simulations of some basic stuff in mechanics and stat mech.
